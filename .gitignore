@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Environment variables
+.env
+.env.local
+
+# sample test files
+cypress/1-getting-started/
+cypress/2-advanced-examples/
+
+# reports
+reports/allure-results/
+
+# trae document 
+.trae/documents/
