@@ -1,0 +1,15 @@
+{
+  "username": "tita1234",
+  "password": "Tita@1234",
+  "paths":{
+    "overview":"/overview.htm"
+  },
+  "loginPageData":{
+    "customerLogin":"Customer Login"
+  },
+  "overviewPageData":{
+    "accountNumber":"13455",
+    "accountServices":"Account Services",
+    "accountsOverview":"Accounts Overview"
+  }
+}
